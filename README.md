@@ -1,2 +1,6 @@
 # Games
-This stores all the Game apps created by me
+
+## Rock-Paper-Scissors
+Game created for my daughter [During my learning phase of Python]
+
+
